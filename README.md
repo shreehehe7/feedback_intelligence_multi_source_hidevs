@@ -15,9 +15,8 @@ A robust, real-time dashboard built with Streamlit that aggregates user feedback
 
 ##  Project Demo Video
 
-[![Watch the Demo on YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
 
-*(Insert your YouTube video link above)*
+
 
 ---
 
