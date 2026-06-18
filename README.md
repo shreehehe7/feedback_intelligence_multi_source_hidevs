@@ -66,13 +66,12 @@ This project is designed to be plug-and-play and **does not require any paid API
 
 ##  Screenshots
 
+### 1. Main Dashboard
+<img width="1280" height="960" alt="Dashboard Overview" src="YOUR_GITHUB_ASSET_LINK_1" />
 
-### 1. Main Dashboard & Data Ingestion
-![Dashboard Overview](screenshots/dashboard.png)
+### 2. User Reviews Fetched
+<img width="1280" height="960" alt="User Reviews Fetched" src="YOUR_GITHUB_ASSET_LINK_2" />
 
-### 2. Sentiment Trends & Visualizations
-![Charts](screenshots/charts.png)
-
-### 3. Generated PDF Report
-![PDF Report](screenshots/pdf_report.png)
+### 3. Sentiment Trends & Visualizations
+<img width="1280" height="960" alt="Sentiment Trends & Visualizations" src="YOUR_GITHUB_ASSET_LINK_3" />
 
