@@ -67,11 +67,11 @@ This project is designed to be plug-and-play and **does not require any paid API
 ##  Screenshots
 
 ### 1. Main Dashboard
-<img width="1280" height="960" alt="Dashboard Overview" src="YOUR_GITHUB_ASSET_LINK_1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7ea81ccf-521f-48ea-8cff-b79fe566f31f" />
 
-### 2. User Reviews Fetched
-<img width="1280" height="960" alt="User Reviews Fetched" src="YOUR_GITHUB_ASSET_LINK_2" />
+### 2. Sentiment Trends & Visualizations
+<img width="1919" height="906" alt="Image" src="https://github.com/user-attachments/assets/b1383349-7077-422b-bf04-ff2f75de70fc" />
 
-### 3. Sentiment Trends & Visualizations
-<img width="1280" height="960" alt="Sentiment Trends & Visualizations" src="YOUR_GITHUB_ASSET_LINK_3" />
+### 3. User Reviews Fetched
+<img width="1909" height="907" alt="Image" src="https://github.com/user-attachments/assets/152fe218-d300-40c9-8766-71f0eeb6e4fb" />
 
