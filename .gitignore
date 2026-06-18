@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temporary Data
+data/*.png
+data/*.pdf
+!data/sample_reviews.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db

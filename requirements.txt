@@ -1,0 +1,8 @@
+streamlit==1.36.0
+pandas==2.2.2
+google-play-scraper==1.2.6
+vaderSentiment==3.3.2
+plotly==5.22.0
+fpdf2==2.8.1
+requests==2.32.3
+kaleido==0.1.0.post1

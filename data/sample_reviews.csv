@@ -1,0 +1,9 @@
+author,review_text,rating,date
+User123,"This app is amazing! I use it every day and it never crashes.",5,2026-06-15
+AngryCustomer,"Terrible update. The new UI is so confusing and slow.",1,2026-06-16
+TechEnthusiast,"Decent features, but it drains my battery way too fast.",3,2026-06-17
+HappyUser,"Love the dark mode feature. Great job team!",5,2026-06-18
+BugHunter,"Found a critical issue when trying to export my data. It just freezes.",2,2026-06-18
+NeutralNancy,"It does what it says. Nothing special.",3,2026-06-14
+FrustratedBob,"Why did you remove the offline mode? I need it for my commute.",1,2026-06-16
+NewUser,"Very intuitive and easy to set up.",4,2026-06-17
