@@ -1,10 +1,10 @@
-# Multi-Source Feedback Intelligence System 📊
+# Multi-Source Feedback Intelligence System 
 
 A robust, real-time dashboard built with Streamlit that aggregates user feedback from the **Google Play Store**, **Apple App Store**, and custom **CSV files**. The system utilizes Natural Language Processing (NLP) to analyze sentiment, detect trends, and identify critical issues automatically, allowing product teams to generate professional weekly PDF reports with a single click.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Multi-Source Ingestion**: Live fetching from Google Play Store (`google-play-scraper`) and Apple App Store (RSS Feeds), alongside CSV uploads.
 - **Sentiment Analysis**: Automatic labeling (Positive, Neutral, Negative) and compound scoring using `vaderSentiment`.
 - **Trend Detection & KPI Tracking**: Interactive Plotly charts visualizing sentiment distributions and daily trends over time.
@@ -13,7 +13,7 @@ A robust, real-time dashboard built with Streamlit that aggregates user feedback
 
 ---
 
-## 🎥 Project Demo Video
+##  Project Demo Video
 
 [![Watch the Demo on YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
 
@@ -21,7 +21,7 @@ A robust, real-time dashboard built with Streamlit that aggregates user feedback
 
 ---
 
-## 🛠️ Setup & Installation Guide
+##  Setup & Installation Guide
 
 ### Prerequisites
 - Python 3.9+
@@ -57,7 +57,7 @@ The dashboard will automatically open in your browser at `http://localhost:8501`
 
 ---
 
-## 🔑 API Setup Instructions
+##  API Setup Instructions
 This project is designed to be plug-and-play and **does not require any paid API keys**:
 - **Google Play Store**: Uses the open-source `google-play-scraper` package to bypass API limits.
 - **Apple App Store**: Fetches data directly via Apple's public iTunes RSS feeds using the `requests` library.
@@ -65,9 +65,8 @@ This project is designed to be plug-and-play and **does not require any paid API
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-*(Add your screenshots to a `screenshots` folder and link them below!)*
 
 ### 1. Main Dashboard & Data Ingestion
 ![Dashboard Overview](screenshots/dashboard.png)
@@ -78,7 +77,3 @@ This project is designed to be plug-and-play and **does not require any paid API
 ### 3. Generated PDF Report
 ![PDF Report](screenshots/pdf_report.png)
 
----
-
-## 🧑‍💻 Maintainer
-Built by **[Your Name/Shree]** as part of the HiDevs GenAI Internship.
